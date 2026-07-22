@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="ConsolasAndTelim/ConsolasAndTelim.csproj" Id="01920302-7108-4c45-ac04-2f8506e713b5" />
   <Project Path="Part-1-Basics/Level-03-Hello-World/HelloWorld/HelloWorld.csproj" Id="3515ac7a-0071-4ef7-93ac-29550397ee57" />
+  <Project Path="Part-1-Basics/Level-03-Hello-World/TheMakingsOfAProgrammer/TheMakingsOfAProgrammer.csproj" Id="d1d7e6a3-b628-4adc-b0a9-ad9dd07bc0f4" />
   <Project Path="Part-1-Basics/Level-03-Hello-World/WhatComesNext/WhatComesNext.csproj" Id="7e41e19d-c2c7-411b-be13-514ed2ac8642" />
 </Solution>
